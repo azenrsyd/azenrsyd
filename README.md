@@ -1,9 +1,9 @@
 ### Hi, I'm Ahmad Zein Rasyid Siregar 👋
-
+```
 🎓 Computer Science undergrad at Universitas Indonesia 🇮🇩
 🤖 Learning applied AI/ML — building with LLMs and APIs
 🌱 Currently exploring: Prompt Engineering 📝
-
+```
 ---
 
 ### Connect with me
